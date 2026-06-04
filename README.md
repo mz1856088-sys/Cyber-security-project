@@ -42,6 +42,38 @@ password_strength_analyzer/
 │
 ├── main.py
 └──analyzer.py
+```
+
+
+
+
+
+# 🚀 How to Run
+
+## 1. Clone the repository
+git clone https://github.com/mz1856088-sys/Cyber-security-project.git
+## 2. Go to project folder
+cd password-strength-analyzer
+## 3. Run the program
+python main.py
+🧪 Example Output
+Enter Password: hello123
+
+Results
+----------------------------------------
+Strength : Medium
+Score    : 55/100
+
+Suggestions:
+- Use at least 12 characters
+- Add uppercase letters
+- Add special characters
+## 📦 Requirements
+
+No external libraries required. Uses Python standard library only.
+
+requirements.txt is empty or optional
+
 
 
 
